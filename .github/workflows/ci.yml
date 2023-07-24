@@ -1,4 +1,4 @@
-name: End-to-End Testes
+name: Chrome
 on: push
 jobs:
   chrome:
